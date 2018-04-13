@@ -1,1 +1,0 @@
-#　raspbery pi 3 
